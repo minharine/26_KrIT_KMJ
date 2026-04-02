@@ -1,0 +1,5 @@
+﻿  OddEven.c
+D:\26311019_Kimminjae\26311019_KimMinJae_OddEven\OddEven.c(16,2): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\26311019_Kimminjae\26311019_KimMinJae_OddEven\OddEven.c(30,9): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\26311019_Kimminjae\26311019_KimMinJae_OddEven\OddEven.c(89,3): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  26311019_KimMinJae_OddEven.vcxproj -> D:\26311019_Kimminjae\26311019_KimMinJae_OddEven\x64\Debug\26311019_KimMinJae_OddEven.exe
